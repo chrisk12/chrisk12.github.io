@@ -9,9 +9,11 @@ different software developing techniques. I have learned so much during my time 
 
 [Software Design Narrative](https://github.com/chrisk12/chrisk12.github.io/blob/main/Kincaid_Software_Narrative.docx)
 
+
 [Artifact for Algorithms and Data Structures](https://github.com/chrisk12/chrisk12.github.io/blob/main/Kincaid_Alg_Data_Struct.zip)
 
 [Algorithms and Data Structures Narrative](https://github.com/chrisk12/chrisk12.github.io/blob/main/Kincaid_Algorithms_DS_Narrative.docx)
+
 
 [Artifact for Databases](https://github.com/chrisk12/chrisk12.github.io/blob/main/Kincaid_Databases.zip)
 
