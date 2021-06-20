@@ -5,6 +5,9 @@ There are three different types of artifacts being showcased during my time at S
 shows what different skills I have had the pleasure of learning while enrolled here. Some examples of what you will see is C++, Java, software tests, MongoDB, Python, and 
 different software developing techniques. I have learned so much during my time here at SNHU and I am excited to put my work to use! Each artifacts comes with its own narrative to describe how and why it was created, and during what time. 
 
+### An informal code review
+[Chris Kincaid Informal code review video]()
+
  
 
 ### Artifact / Narrative for Software Design
